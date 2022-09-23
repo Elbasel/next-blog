@@ -1,0 +1,12 @@
+user signs in > we get the user object.
+
+now we should grab the username from firestore.
+
+
+listen to realtime doc changes on the user doc
+
+
+user state changes => useEffect => username state changes.
+
+
+unsubscribe?
